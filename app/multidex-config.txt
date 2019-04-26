@@ -1,0 +1,3 @@
+com/lhx/hotfix/base/BaseActivity.class
+com/lhx/hotfix/base/BaseApplication.class
+com/lhx/hotfix/activity/MainActivity.class
